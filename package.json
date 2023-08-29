@@ -1,0 +1,13 @@
+{
+	"name": "lui-3_icons-fontawesome",
+	"version": "3.7.0",
+	"description": "LUI-3 framework - icons-fontawesome component",
+	"repository": "https://github.com/wUFr/lui-3_icons-fontawesome",
+	"author": "Jiří Bělský",
+	"license": "MIT",
+	"private": false,
+	"dependencies": {
+		"lui-3_base": "~3.7.0",
+		"font-awesome": "~4.7.0"
+	}
+}
